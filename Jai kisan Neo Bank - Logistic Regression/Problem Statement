@@ -1,0 +1,18 @@
+Context
+
+Jai Kisan is a rural-focused fintech that aims to bridge the credit gap in the rural market. 
+Currently, 80% of rural individuals and businesses find it difficult to access formal credit and the data science team at Jai Kisan is building an underwriting layer to determine the creditworthiness of MSMEs as well as individuals.
+
+Jai Kisan deploys formal credit in the rural economy via two main financial instruments:
+
+Buy Now, Pay Later: 
+
+Where a customer can avail credit at the point of sale to purchase goods.
+Supply Chain Financing: Where a business (partnered with Jai Kisan) can finance invoices and/or purchase orders to bridge the gap in payable and receivable credit cycles.
+This case study will focus on the underwriting process behind Supply Chain Financing.
+
+
+Problem Statement
+
+Given a set of attributes for an MSME/ Individual, determine if a credit line should be extended to a business. 
+If so, what should the repayment terms be in business recommendations?
